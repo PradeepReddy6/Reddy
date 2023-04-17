@@ -1,7 +1,3 @@
 # Reddy
 
 test file, testing
-
-
-
-
